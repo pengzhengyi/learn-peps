@@ -1,4 +1,4 @@
-# Learn PEPs
+# Read PEPs as a developer
 
 This project is intended to be sharing of my personal learning from reading Python
 Enhancement Proposals (PEPs).
@@ -7,9 +7,6 @@ Enhancement Proposals (PEPs).
 
 My reading for PEPs will be put inside the `peps` folder.
 Each PEP will have its own directory named with its PEP index, for example, PEP1.
-
-Inside the `peps` folder, there will also be a `.template` serving as the template
-for each PEP directory.
 
 A PEP directory will have the following structure:
 
@@ -35,10 +32,10 @@ A PEP directory will have the following structure:
 
 ## Philosophy
 
-- > Simple is better than complex.  
+- > Simple is better than complex.
 
   The writing is intended to be simple and easy to read.
-- Audiobook should be standalone.  
+- Audiobook should be standalone.
   The audiobook should be able to be listened without the need to look at any images or run any demos. Anyone should be able to
   listen to them while preparing dinner without get fingers cut.
 - Be humble
@@ -48,12 +45,17 @@ A PEP directory will have the following structure:
   - I am writing this to learn and just sharing my learnings.
   - I am not writing this to show off my code skills.
   - I am not writing this to be perfect.
-- Be lazy and prefer automation than manual work.  
+- Be lazy and prefer automation than manual work.
   This is a long marathon project. I want to save energy whenever
   possible. In order to save energy, I will have some handy tools
   to automate some manual works. For example, audio format
   conversions.
-- Learn from the others.  
+- Learn from the others.
   Instead of trying to be comprehensive or all-encompassing, I will
   utilize any good material I can find on the Internet.
-  
+- Developer perspective.
+  I will try to focus on the developer perspective of the PEPs.
+  Why a feature is useful? why we should follow a guideline?
+  Instead of focusing on the language design perspective, I will
+  put more emphasis on how it ties to the development
+  experience with Python.
