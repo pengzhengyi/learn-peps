@@ -14,6 +14,10 @@ A PEP directory will have the following structure:
   languages, they will be put in the same directory with the name
   `PEP<index>.<lang>.md`.
   For example, `PEP1.cn.md` for Chinese version of PEP1.
+
+  Alternatively, `PEP<index>.ipynb`: a jupyter notebook might be used
+  if it is easier to demonstrate with some simple code examples
+  that way
 - `scripts/<purpose>.py`: All demo scripts will reside in the `scripts` directory.
   This directory contains demo Python scripts to demonstrate the concepts of the PEP.
   These scripts named by the purpose of the script. For example,
